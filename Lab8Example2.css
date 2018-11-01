@@ -1,0 +1,35 @@
+body{
+  background-color: white;
+}
+#Header{
+  border: 3px dotted purple;
+  margin: 15px;
+  height: 200px;
+}
+.TextOne{
+  text-align: center;
+  font-size: 12px;
+  color:black;
+}
+.textTwo{
+  text-align: left;
+  font-size: 30px;
+  color: orange;
+}
+.redText{
+  color: red;
+  font-size: 32px;
+}
+.TextThree{
+  text-align: center;
+  font-size: 10px;
+  color: green;
+}
+.TextFour{
+  text-align: right;
+  font-size: 8px;
+  color: purple;
+}
+.yellowText{
+  color: yellow;
+}

@@ -1,0 +1,29 @@
+body{
+  background-color: blue;
+}
+.BoxOne{
+  border-style: solid;
+  margin: 100px;
+  height: 400px;
+}
+.text{
+height:35px;
+width: 1050px;
+  border: 2px dashed green;
+  margin: 20px;
+}
+
+.HeaderOne{
+  color: red;
+}
+
+.BrockMascot{
+  height: 290px;
+  width: 200px;
+  border: 2px dashed pink;
+padding: 14px;
+}
+
+.text p{
+  margin: 15px;
+}
